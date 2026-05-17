@@ -122,6 +122,7 @@ const aditya = {
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adi03__)
+<img src="https://komarev.com/ghpvc/?username=adi03__&label=Profile%20Views&color=A78BFA&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -130,14 +131,10 @@ const aditya = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adi03__/adi03__/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adi03__/adi03__/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adi03__/adi03__/pacman-output/pacman-contribution-graph.svg">
 </picture>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/ADIII-03/ADIII-03/snake-output/snake.svg" alt="Snake animation" />
 
 </div>
 
