@@ -114,15 +114,15 @@ const aditya = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adi03__&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adi03__&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ADIII-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADIII-03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/adi03__)
-<img src="https://komarev.com/ghpvc/?username=adi03__&label=Profile%20Views&color=A78BFA&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ADIII-03&label=Profile%20Views&color=A78BFA&style=flat" alt="Profile Views" />
 
 </div>
 
@@ -131,9 +131,9 @@ const aditya = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adi03__/adi03__/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adi03__/adi03__/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adi03__/adi03__/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 </div>
@@ -155,7 +155,7 @@ const aditya = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-aradityaraman0518-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aradityaraman0518@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raman-5a237230a/)
-[![GitHub](https://img.shields.io/badge/GitHub-adi03__-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adi03__)
+[![GitHub](https://img.shields.io/badge/GitHub-ADIII%2D03-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ADIII-03)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://adityainfo.vercel.app/)
 
 </div>
