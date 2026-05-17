@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**ADIII-03/ADIII-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aditya%20Raman&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=full-stack%20dev%20%7C%20ECE%20@%20IIIT%20Una%20%7C%20builder%20of%20things&descAlignY=58&descSize=16&animation=fadeIn" />
@@ -141,6 +125,22 @@ const aditya = {
 
 </div>
 
+<br/>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ADIII-03/ADIII-03/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/ADIII-03/ADIII-03/snake-output/snake.svg" alt="Snake animation" />
+
+</div>
+
 ---
 
 ### 🏆 Achievements
@@ -157,9 +157,9 @@ const aditya = {
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-aradityaraman0518-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aradityaraman0518@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-adi03__-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Raman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-raman-5a237230a/)
+[![GitHub](https://img.shields.io/badge/GitHub-adi03__-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adi03__)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://adityainfo.vercel.app/)
 
 </div>
 
